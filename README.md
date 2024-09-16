@@ -10,8 +10,10 @@ Power BI for Visualization: Built dynamic, interactive dashboards in Power BI th
 
 Key Outcomes:
 
-Streamlined the data analysis process by integrating SQL queries into Excel, minimizing redundancy.
-Created insightful dashboards that helped visualize election trends, improving decision-making efficiency.
+>Streamlined the data analysis process by integrating SQL queries into Excel, minimizing redundancy.
+>Created insightful dashboards that helped visualize election trends, improving decision-making efficiency.
+
+
 Conclusion: The integration of Excel, SQL, and Power BI proved to be a game-changer in delivering clear, data-backed results. The combination of these tools enabled fast, accurate analysis, and effective storytelling through visuals!
 
 Tools Used:EXCEL,SQL,PowerBi
