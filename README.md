@@ -14,5 +14,10 @@ Streamlined the data analysis process by integrating SQL queries into Excel, min
 Created insightful dashboards that helped visualize election trends, improving decision-making efficiency.
 Conclusion: The integration of Excel, SQL, and Power BI proved to be a game-changer in delivering clear, data-backed results. The combination of these tools enabled fast, accurate analysis, and effective storytelling through visuals!
 
+Tools Used:EXCEL,SQL,PowerBi
+
+Linkdeln:www.linkedin.com/in/saisiddardhapitta
+PowerBi:https://app.powerbi.com/view?r=eyJrIjoiYmI1ZTYxYzktMGM5ZS00YWFlLTg5YmYtYjI3ZTMzN2U0ZmRmIiwidCI6ImY5MTI1ZDYwLWFhOTEtNDFlZi04OWFmLTA1OTcwNDdlMGRhMyJ9
+
 #DataAnalysis #PowerBI #SQL #Excel #ElectionInsights #DataDriven
 
