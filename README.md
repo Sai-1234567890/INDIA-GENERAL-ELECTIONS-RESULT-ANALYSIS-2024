@@ -17,7 +17,11 @@ Conclusion: The integration of Excel, SQL, and Power BI proved to be a game-chan
 Tools Used:EXCEL,SQL,PowerBi
 
 Linkdeln:www.linkedin.com/in/saisiddardhapitta
+
+
 PowerBi:https://app.powerbi.com/view?r=eyJrIjoiYmI1ZTYxYzktMGM5ZS00YWFlLTg5YmYtYjI3ZTMzN2U0ZmRmIiwidCI6ImY5MTI1ZDYwLWFhOTEtNDFlZi04OWFmLTA1OTcwNDdlMGRhMyJ9
+
+
 
 #DataAnalysis #PowerBI #SQL #Excel #ElectionInsights #DataDriven
 
